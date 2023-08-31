@@ -1,7 +1,7 @@
 /* Body styling */
 body {
   background: #713e94;
-  color: #fff;
+  color: #99E2CA;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 60px;
-  color: #fff;
+  color: #447A68;
   text-align: center;
 }
 
@@ -30,9 +30,9 @@ h1 {
 /* Submit Button, Columns, Questions, and Inputs */
 .button-submit {
   background: transparent;
-  border: 3px solid #fff;
+  border: 3px solid #617D74;
   border-radius: 6px;
-  color: #fff;
+  color: #B1E7D5;
   cursor: pointer; 
   display: block;
   font-size: 20px;
@@ -65,7 +65,7 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #713e94;
+  color: #77AA99;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
