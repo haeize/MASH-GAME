@@ -1,9 +1,9 @@
 /* Body styling */
 body {
   background: #7b918d;
-  color: #40504b;
+  color: #f8ff85;
   font-family: Helvetica, Arial;
-  font-size: 27px;
+  font-size: 30px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
@@ -15,7 +15,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 90px;
-  color: #364f4b;
+  color: #f8ff85;
   text-align: center;
 }
 
@@ -32,7 +32,7 @@ h1 {
   background: #92b4ae;
   border: 3px solid #445451;
   border-radius: 6px;
-  color: #364f4b;
+  color: #f8ff85;
   cursor: pointer; 
   display: block;
   font-size: 20px;
@@ -44,7 +44,7 @@ h1 {
 
 .bucket {
   display: inline-block;
-  margin-bottom: 40px;
+  margin-bottom: 45px;
   width: 100%;
 }
 
@@ -57,7 +57,7 @@ h1 {
 }
 
 .choice-bucket label {
-  font-size: 12px;
+  font-size: 18px;
   line-height: 13px;
   margin: 15px 4%;
 }
@@ -65,7 +65,7 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #364f4b;
+  color: #000000;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
@@ -90,9 +90,9 @@ h1 {
 /* Answer Div */
 #answers {
   margin: 60px 0;
-  background: #6c7a78;
+  background: #000000;
   border-radius: 6px;
-  color: #6c7a78;
+  color: #dbf3e7;
   transition: 1s linear;
 }
 
